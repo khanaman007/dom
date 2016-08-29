@@ -22,7 +22,7 @@ public class JSXText extends Name  {
 
 private JSXTextCharacter jsxTextCharacter;
   private JSXText jsxText =null;
-	public JSXText(AST ast) {
+	 JSXText(AST ast) {
 	
 		super(ast);
 		// TODO Auto-generated constructor stub

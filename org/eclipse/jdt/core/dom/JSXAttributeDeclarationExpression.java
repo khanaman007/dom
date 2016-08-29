@@ -10,7 +10,7 @@ public class JSXAttributeDeclarationExpression extends Expression {
 	 private Expression attributeType =null;
 	
 	
-	public JSXAttributeDeclarationExpression(AST ast) {
+	 JSXAttributeDeclarationExpression(AST ast) {
 		super(ast);
 		// TODO Auto-generated constructor stub
 	}

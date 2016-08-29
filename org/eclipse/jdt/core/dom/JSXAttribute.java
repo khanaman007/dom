@@ -5,7 +5,7 @@ import java.util.List;
 
 public class JSXAttribute extends Expression {
 
-	public JSXAttribute(AST ast) {
+	 JSXAttribute(AST ast) {
 		super(ast);
 		// TODO Auto-generated constructor stub
 	}

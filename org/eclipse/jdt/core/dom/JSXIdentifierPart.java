@@ -2,7 +2,7 @@ package org.eclipse.jdt.core.dom;
 
 public class JSXIdentifierPart extends JSXIdentifierStart {
 
-	public JSXIdentifierPart(AST ast) {
+	 JSXIdentifierPart(AST ast) {
 		super(ast);
 		// TODO Auto-generated constructor stub
 		

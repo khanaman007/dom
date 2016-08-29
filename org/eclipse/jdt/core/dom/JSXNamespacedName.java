@@ -5,7 +5,7 @@ import java.util.List;
 
 public class JSXNamespacedName extends Name {
 
-	public JSXNamespacedName(AST ast) {
+	 JSXNamespacedName(AST ast) {
 		super(ast);
 		// TODO Auto-generated constructor stub
 	}

@@ -5,7 +5,7 @@ import java.util.List;
 
 public class JSXSpreadAttribute extends Expression {
 	private JSXElementName name = null;
-	public JSXSpreadAttribute(AST ast) {
+	 JSXSpreadAttribute(AST ast) {
 		super(ast);
 		// TODO Auto-generated constructor stub
 	}

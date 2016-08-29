@@ -6,7 +6,7 @@ import java.util.List;
 public class JSXMemberExpression extends Name {
     
 
-	public JSXMemberExpression(AST ast) {
+	 JSXMemberExpression(AST ast) {
 		super(ast);
 		// TODO Auto-generated constructor stub
 	}

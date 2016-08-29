@@ -5,7 +5,7 @@ import java.util.List;
 
 public class JSXElement extends Name {
 
-	public JSXElement(AST ast) {
+	 JSXElement(AST ast) {
 		super(ast);
 		// TODO Auto-generated constructor stub
 	}
